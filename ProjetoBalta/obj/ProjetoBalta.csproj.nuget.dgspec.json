@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jefferson.silva\\Videos\\OBJETO_BALTA\\ProjetoBalta\\ProjetoBalta.csproj": {}
+    "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\orientacaoobjeto\\ProjetoBalta\\ProjetoBalta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jefferson.silva\\Videos\\OBJETO_BALTA\\ProjetoBalta\\ProjetoBalta.csproj": {
+    "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\orientacaoobjeto\\ProjetoBalta\\ProjetoBalta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jefferson.silva\\Videos\\OBJETO_BALTA\\ProjetoBalta\\ProjetoBalta.csproj",
+        "projectUniqueName": "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\orientacaoobjeto\\ProjetoBalta\\ProjetoBalta.csproj",
         "projectName": "ProjetoBalta",
-        "projectPath": "C:\\Users\\jefferson.silva\\Videos\\OBJETO_BALTA\\ProjetoBalta\\ProjetoBalta.csproj",
-        "packagesPath": "C:\\Users\\jefferson.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jefferson.silva\\Videos\\OBJETO_BALTA\\ProjetoBalta\\obj\\",
+        "projectPath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\orientacaoobjeto\\ProjetoBalta\\ProjetoBalta.csproj",
+        "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\orientacaoobjeto\\ProjetoBalta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jefferson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
